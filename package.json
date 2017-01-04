@@ -1,0 +1,28 @@
+{
+  "name": "mk-fs-stat",
+  "version": "0.0.1",
+  "description": "fs.stat as promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node --harmony test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkastner/mk-fs-stat.git"
+  },
+  "keywords": [
+    "node",
+    "fs",
+    "stat",
+    "promise"
+  ],
+  "author": "John Galt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkastner/mk-fs-stat/issues"
+  },
+  "homepage": "https://github.com/mkastner/mk-fs-stat#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
