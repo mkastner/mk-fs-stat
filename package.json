@@ -1,10 +1,10 @@
 {
   "name": "mk-fs-stat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fs.stat as promise",
   "main": "index.js",
   "scripts": {
-    "test": "NODE_ENV=test node --harmony test/*.js"
+    "test": "NODE_ENV=test node test/*.test.js"
   },
   "repository": {
     "type": "git",
